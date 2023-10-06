@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FarelSaefulFalah
 - 👀 I’m interested w/you
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me?? nah dont search me
 
 <!---
