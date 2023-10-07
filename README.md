@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FarelSaefulFalah
+- 👋 Hi, I’m @fyn
 - 👀 I’m interested w/you
 - 🌱 I’m currently learning pyhton
 - 📫 How to reach me?? nah dont search me
